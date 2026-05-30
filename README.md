@@ -1,5 +1,11 @@
 # AI-Driven Employee Training Recommendation System
 
+## Workflow Architecture
+
+![KNIME Workflow](screenshots/knime_workflow.png)
+
+---
+
 ## Overview
 
 This project presents a machine learning-based recommendation system designed to improve organizational productivity through personalized employee training recommendations.
@@ -44,7 +50,7 @@ The project workflow includes:
 7. Rule-based recommendation processing
 8. Performance evaluation and visualization
 
-The KNIME workflow can be found in the project screenshots and workflow files.
+The complete KNIME workflow is available in the `workflow` directory.
 
 ---
 
@@ -94,6 +100,20 @@ The developed recommendation system successfully identified effective training s
 
 ---
 
+## Repository Structure
+
+```text
+AI-Driven-Employee-Training-Recommendation-System
+
+├── README.md
+├── data/
+├── outputs/
+├── screenshots/
+└── workflow/
+```
+
+---
+
 ## Skills Demonstrated
 
 * Data Analytics
@@ -106,25 +126,6 @@ The developed recommendation system successfully identified effective training s
 * Data Visualization
 * KNIME Analytics Platform
 * Python Programming
-
----
-
-## Repository Structure
-
-data/
-
-* Anonymized datasets
-
-screenshots/
-
-* KNIME workflow screenshots
-* Clustering results
-* Model outputs
-* Visualizations
-
-presentation/
-
-* Project presentation and documentation
 
 ---
 
