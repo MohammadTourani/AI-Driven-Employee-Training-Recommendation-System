@@ -100,20 +100,6 @@ The developed recommendation system successfully identified effective training s
 
 ---
 
-## Repository Structure
-
-```text
-AI-Driven-Employee-Training-Recommendation-System
-
-├── README.md
-├── data/
-├── outputs/
-├── screenshots/
-└── workflow/
-```
-
----
-
 ## Skills Demonstrated
 
 * Data Analytics
