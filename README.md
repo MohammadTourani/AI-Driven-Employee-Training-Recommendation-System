@@ -94,8 +94,8 @@ The developed recommendation system successfully identified effective training s
 ### Key Outcomes
 
 * Dataset size: approximately 500 employees
-* Maximum productivity improvement: 6.82%
-* Average productivity improvement: 4.49%
+* Maximum productivity improvement(Approx.): 6.88%
+* Average productivity improvement(Approx.): 4.54%
 * Personalized recommendations generated for each employee segment
 
 ---
